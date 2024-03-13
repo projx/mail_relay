@@ -1,4 +1,4 @@
-aiosmtpd==1.4.2
+aiosmtpd==1.4.5
 config==0.5.1
 loguru==0.5.3
 notifiers==1.2.1
